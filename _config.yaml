@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Robyn Barbato
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+subtitle: 
+description: Studying microorganisms inhabiting the cold regions of the planet. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
